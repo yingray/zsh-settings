@@ -1,5 +1,9 @@
 # Terminal
 
+Preview
+
+![demo](https://github.com/yingray/yingray.env/raw/master/terminal/zsh.png)
+
 ### Install zsh
 
 * 使用Homebrew安裝zsh:
