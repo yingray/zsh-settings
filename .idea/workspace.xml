@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="954751df-1a7f-493f-997d-687ebaa706ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/terminal/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webstorm/README.md" />
-    </list>
+    <list default="true" id="954751df-1a7f-493f-997d-687ebaa706ed" name="Default" comment="" />
     <ignored path="yingray.env.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -115,7 +111,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/HappyReactProject" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
@@ -133,12 +129,12 @@
       <option name="presentableId" value="Default" />
       <updated>1476887220190</updated>
       <workItem from="1476887222690" duration="615000" />
-      <workItem from="1476888370705" duration="4000" />
+      <workItem from="1476888370705" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="619000" />
+    <option name="totallyTimeSpent" value="859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="879" height="730" extended-state="0" />
