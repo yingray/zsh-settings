@@ -2,15 +2,15 @@
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Roboto Mono Light for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="BORDER_LINES_COLOR" value="6496fe" />
     <option name="CARET_COLOR" value="6496fe" />
-    <option name="CARET_ROW_COLOR" value="0" />
+    <option name="CARET_ROW_COLOR" value="28" />
     <option name="DELETED_LINES_COLOR" value="ffaab3" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="INDENT_GUIDE" value="424858" />
@@ -30,7 +30,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="64e3ff" />
@@ -76,8 +75,8 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="6496fe" />
-        <option name="EFFECT_COLOR" value="589df6" />
+        <option name="FOREGROUND" value="23252c" />
+        <option name="BACKGROUND" value="6496fe" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -148,12 +147,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="cc64fe" />
+        <option name="FOREGROUND" value="e282ff" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="c7ff9e" />
+        <option name="FOREGROUND" value="e3fe64" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -193,7 +192,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="64e3ff" />
+        <option name="FOREGROUND" value="5fbbff" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -203,7 +202,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="cc64fe" />
+        <option name="FOREGROUND" value="e282ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -224,9 +223,7 @@
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
-      <value>
-        <option name="FOREGROUND" value="64fecc" />
-      </value>
+      <value />
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
@@ -308,14 +305,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="JS.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="5fbbff" />
@@ -328,14 +317,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e5c08b" />
-      </value>
-    </option>
-    <option name="JS.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="56b6c2" />
-        <option name="EFFECT_COLOR" value="bb3821" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="5fbbff" />
       </value>
     </option>
     <option name="JS.KEYWORD">
@@ -361,7 +343,6 @@
         <option name="FOREGROUND" value="59afef" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -370,7 +351,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="a9b7c6" />
+        <option name="EFFECT_COLOR" value="6496fe" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -415,7 +396,6 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
     <option name="REGEXP.QUOTE_CHARACTER">
@@ -516,10 +496,8 @@
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
-        <option name="FOREGROUND" value="64e3fe" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -574,6 +552,25 @@
       <value>
         <option name="FOREGROUND" value="ff7b85" />
         <option name="BACKGROUND" value="23252c" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="e282ff" />
+        <option name="BACKGROUND" value="23252c" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_VALUE">
+      <value>
+        <option name="FOREGROUND" value="fecc64" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_TEXT">
+      <value>
+        <option name="FOREGROUND" value="7da7fe" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
